@@ -1,0 +1,6 @@
+checkin_id,tid,lat_lon,date_time,day,poi_foursquare_id,poi_name,poi_type,poi_price,poi_rating,weather
+341937,70,40.7585378444230 -73.9856028556824,2012-04-09 09:14:24,Monday,439c437bf964a520f02b1fe3,New York Marriott Marquis,Travel & Transport,-1,8.4,Clear
+342081,70,40.7564898726738 -73.9862680435181,2012-04-09 10:23:12,Monday,49b7ed6df964a52030531fe3,Times Square,Outdoors & Recreation,-1,9.0,Clear
+342143,70,40.7595730799586 -73.9852440579069,2012-04-09 11:01:00,Monday,4b5f42a1f964a52094b029e3,Starbucks,Food,1,8.3,Clear
+342270,70,40.7596852919243 -73.9834247612505,2012-04-09 12:31:29,Monday,4b37d391f964a520ec4625e3,Sam Ash Music,Shop & Service,-1,-1,Clouds
+342893,70,40.7564898726738 -73.9862680435181,2012-04-09 18:01:49,Monday,49b7ed6df964a52030531fe3,Times Square,Outdoors & Recreation,-1,9.0,Clouds

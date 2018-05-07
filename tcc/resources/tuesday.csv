@@ -1,0 +1,137 @@
+checkin_id,tid,lat_lon,date_time,day,poi_foursquare_id,poi_name,poi_type,poi_price,poi_rating,weather
+335678,734,0 0,2012-04-03 15:21:58,Tuesday,4df53b7bd4c01ff6b2f262ec,110 Lawrence Ave Dumont Nj,Residence,-1,-1,Clear
+335896,734,0 0,2012-04-03 17:34:50,Tuesday,4df53b7bd4c01ff6b2f262ec,110 Lawrence Ave Dumont Nj,Residence,-1,-1,Clear
+335701,443,0 1,2012-04-03 15:38:10,Tuesday,4c4dcaa49efabe9a41cc1569,241 37th St,Professional & Other Places,-1,-1,Clear
+336279,354,1 0,2012-04-03 20:08:17,Tuesday,4c2c49f38abca5930e850120,403 Broadway Mini Market Deli,Food,1,5.6,Clear
+336090,943,1 1,2012-04-03 18:54:06,Tuesday,4de45622c65b7a3e21485ecf,55 Van Reipen,Residence,-1,-1,Clear
+335823,84,0 2,2012-04-03 16:57:42,Tuesday,4bcdc2bf68f976b03abb6483,A Cafe @ lex and 45th,Food,1,-1,Clear
+336540,354,1 2,2012-04-03 22:26:25,Tuesday,4c7170dafa49a1cd60e6a8e3,Agape Love International,Shop & Service,-1,-1,Clouds
+336335,527,2 0,2012-04-03 20:29:50,Tuesday,4de54677e4cde71744a4fba8,AppNexus,Professional & Other Places,-1,-1,Clouds
+336384,84,2 1,2012-04-03 20:51:07,Tuesday,4b16c7c7f964a52057bd23e3,AT&T,Shop & Service,-1,6.3,Clouds
+335757,267,2 2,2012-04-03 16:11:54,Tuesday,4b344fb5f964a520eb2625e3,Bay Plaza Shopping Center,Shop & Service,-1,7.7,Clear
+335748,734,0 3,2012-04-03 16:07:51,Tuesday,4b983023f964a520a13235e3,Best Buy,Shop & Service,-1,6.1,Clear
+336437,768,1 3,2012-04-03 21:18:44,Tuesday,4eab5aa90aafb00bd8f2f41f,Blvd East The Block NYC View,Outdoors & Recreation,-1,-1,Clouds
+336198,943,2 3,2012-04-03 19:43:28,Tuesday,3fd66200f964a520dbe31ee3,Bowery Ballroom,Arts & Entertainment,-1,9.2,Clear
+336282,529,3 0,2012-04-03 20:09:14,Tuesday,4c2cff8075579521c6555d83,Bronx Martial Arts Academy,Outdoors & Recreation,-1,7.7,Clear
+335828,768,3 1,2012-04-03 16:59:34,Tuesday,4cfa8ab0e6f48eec85dc83a4,Buddy's Sports Corner,Shop & Service,-1,-1,Clear
+335574,445,3 2,2012-04-03 14:10:39,Tuesday,4b9830a5f964a520c73235e3,C-Town Supermarkets,Shop & Service,-1,-1,Clear
+335614,768,3 3,2012-04-03 14:34:00,Tuesday,4e79392ce4cdb158f1cf4b75,Camizzi's Place,Residence,-1,-1,Clear
+336278,354,0 4,2012-04-03 20:07:36,Tuesday,4a972370f964a520a12820e3,China Express,Food,1,7.5,Clear
+335816,702,1 4,2012-04-03 16:55:45,Tuesday,4ad4a7c0f964a52085e820e3,Chipotle Mexican Grill,Food,1,7.3,Clear
+336434,371,2 4,2012-04-03 21:18:02,Tuesday,4e7980b4fa7600c1ffe698fc,Clearview Gardens,Residence,-1,-1,Clouds
+335563,484,3 4,2012-04-03 14:04:00,Tuesday,4b5b981bf964a520900929e3,Compare Foods Supermarket,Shop & Service,-1,5.4,Clear
+336484,527,4 0,2012-04-03 21:51:18,Tuesday,4e524903fa7687935fb8f0f9,D & F Deli,Food,1,-1,Clouds
+335765,445,4 1,2012-04-03 16:21:06,Tuesday,4bae5fb6f964a520b4a93be3,Daily Juice,Food,1,-1,Clear
+335835,768,4 2,2012-04-03 17:02:42,Tuesday,4c339a34ed37a5936aa06d03,Disney Store,Shop & Service,-1,-1,Clear
+336595,448,4 3,2012-04-03 23:33:14,Tuesday,4b67b670f964a520af5b2be3,Duane Reade,Shop & Service,-1,5.3,Clouds
+335736,445,4 3,2012-04-03 16:03:59,Tuesday,4c34e81009a99c7406490c2a,Duane Reade,Shop & Service,-1,5.8,Clear
+335926,943,4 4,2012-04-03 17:46:15,Tuesday,4bec4056fd60a5932dba3af1,Eastern Datacomm,Professional & Other Places,-1,-1,Clear
+335586,689,0 5,2012-04-03 14:15:05,Tuesday,4c5ef77bfff99c74eda954d3,Eataly NYC,Shop & Service,-1,9.5,Clear
+335915,354,1 5,2012-04-03 17:41:59,Tuesday,4abbdc65f964a5203f8520e3,FedEx Office Print & Ship Center,Shop & Service,-1,5.7,Clear
+336419,372,2 5,2012-04-03 21:11:32,Tuesday,3fd66200f964a5200ae91ee3,Frames Leisure Time Bowl,Arts & Entertainment,-1,7.2,Clouds
+335974,458,3 5,2012-04-03 18:05:19,Tuesday,4e575fe418a802f9c8b815d1,FRESH CREEK BAY,Outdoors & Recreation,-1,-1,Clear
+336609,185,4 5,2012-04-03 23:48:10,Tuesday,4d8f74cf1716a143e3ed4af7,Gardner Field,Outdoors & Recreation,-1,-1,Clouds
+336599,448,5 0,2012-04-03 23:36:46,Tuesday,4e5efbb8d22d7239c1aaa852,Gate 305,Travel & Transport,-1,-1,Clouds
+336537,354,5 1,2012-04-03 22:25:03,Tuesday,4c89479297828cfa7e04a3aa,Good Luck Dry Cleaners,Shop & Service,-1,-1,Clouds
+336197,621,5 2,2012-04-03 19:42:46,Tuesday,4c7be24f566db60c98054c0e,Harmon Meadow,Shop & Service,-1,7.0,Clear
+335585,443,5 3,2012-04-03 14:14:44,Tuesday,4a676ff4f964a5206fc91fe3,Health Plus,Professional & Other Places,-1,-1,Clear
+336522,742,5 4,2012-04-03 22:17:38,Tuesday,4ef7ce55c512f22778e7e0a4,Heat Madness,Residence,-1,-1,Clouds
+336272,84,5 5,2012-04-03 20:04:48,Tuesday,4d5b3dd522ad2d430a63e695,Hofbräu Bierhaus NYC,Food,2,8.2,Clear
+336264,484,0 6,2012-04-03 20:03:09,Tuesday,4cca1c3982bfa35df6e250c9,Home,Residence,-1,-1,Clear
+336439,527,1 6,2012-04-03 21:20:01,Tuesday,4b82fa73f964a52090f030e3,Hudson News,Shop & Service,-1,5.8,Clouds
+335659,706,2 6,2012-04-03 15:11:04,Tuesday,4cd1a3d601eaf04db979bf5d,Key Food,Shop & Service,-1,6.5,Clear
+335777,458,3 6,2012-04-03 16:27:35,Tuesday,4ba62142f964a520b43539e3,Korean War Veterans Plaza,Outdoors & Recreation,-1,6.1,Clear
+336223,354,4 6,2012-04-03 19:50:28,Tuesday,48523767f964a520a8501fe3,Marcy,Residence,-1,-1,Clear
+336539,354,4 6,2012-04-03 22:26:02,Tuesday,48523767f964a520a8501fe3,Marcy,Residence,-1,-1,Clouds
+335612,768,5 6,2012-04-03 14:33:29,Tuesday,4dbdebed6e810768bf82ad95,Mark's Homemade Ice Cream,Food,1,7.6,Clear
+336319,293,6 0,2012-04-03 20:19:44,Tuesday,41156d00f964a520f40b1fe3,Metropolitan,Nightlife Spot,1,8.3,Clear
+336507,448,6 1,2012-04-03 22:09:43,Tuesday,3fd66200f964a52073e71ee3,Mickey Mantle's,Food,3,-1,Clouds
+335615,458,6 2,2012-04-03 14:34:10,Tuesday,4ca264431ee76dcb0d32f0dd,Midway Building,College & University,-1,-1,Clear
+335674,445,6 3,2012-04-03 15:20:46,Tuesday,4cd544d894848cfa6a0de5b1,Miguelina's House,Residence,-1,-1,Clear
+336082,371,6 4,2012-04-03 18:50:06,Tuesday,4e1529cffa764fb14ae5558e,Momma Dukes House,Residence,-1,-1,Clear
+336325,621,6 5,2012-04-03 20:23:54,Tuesday,4f48749de4b0e13229e306a7,Mr. O's ❤,Residence,-1,-1,Clouds
+335629,445,6 6,2012-04-03 14:44:07,Tuesday,4c1d0f98c09ed13ad4c5828e,MTA - M100 (Inwood),Travel & Transport,-1,-1,Clear
+335962,315,0 7,2012-04-03 17:57:55,Tuesday,4c7d76e58da18cfa01789fce,MTA Bus - B15 Bus Stop,Travel & Transport,-1,-1,Clear
+335723,976,1 7,2012-04-03 15:54:07,Tuesday,4c0e90c57189c928ccb5d8b6,MTA Bus - Essex St & Delancey St (M9/M14A),Travel & Transport,-1,5.6,Clear
+335890,951,2 7,2012-04-03 17:32:59,Tuesday,4ae6258af964a52013a521e3,MTA Subway - 125th St (1),Travel & Transport,-1,-1,Clear
+335894,951,3 7,2012-04-03 17:34:05,Tuesday,4b2c7911f964a52044c724e3,MTA Subway - 137th St/City College (1),Travel & Transport,-1,-1,Clear
+335590,445,4 7,2012-04-03 14:16:10,Tuesday,4b3a8e5df964a520d86925e3,MTA Subway - 145th St (1),Travel & Transport,-1,-1,Clear
+336396,527,5 7,2012-04-03 20:56:52,Tuesday,4ad8add6f964a520a61321e3,MTA Subway - 14th St/Union Square (4/5/6/L/N/Q/R/W),Travel & Transport,-1,-1,Clouds
+336368,527,6 7,2012-04-03 20:44:28,Tuesday,4ab939f0f964a520967e20e3,MTA Subway - 23rd St (R/W),Travel & Transport,-1,-1,Clouds
+336386,84,7 0,2012-04-03 20:52:01,Tuesday,4bba1bab7421a5936165c340,MTA Subway - 42nd St/Grand Central (4/5/6/7/S),Travel & Transport,-1,-1,Clouds
+335841,951,7 1,2012-04-03 17:09:19,Tuesday,4b0737c3f964a520e4f922e3,MTA Subway - 42nd St/Times Square/Port Authority Bus Terminal (A/C/E/N/Q/R/S/W/1/2/3/7),Travel & Transport,-1,-1,Clear
+335888,354,7 2,2012-04-03 17:32:16,Tuesday,4acfc371f964a520d2d520e3,MTA Subway - Atlantic Ave/Barclays Center (B/D/N/Q/R/2/3/4/5),Travel & Transport,-1,-1,Clear
+335788,120,7 3,2012-04-03 16:38:15,Tuesday,4bdc528dfed22d7fcea057c9,MTA Subway - Bay Parkway (D),Travel & Transport,-1,-1,Clear
+335860,445,7 4,2012-04-03 17:17:31,Tuesday,4aba69b7f964a520388120e3,MTA Subway - Borough Hall/Court St (R/2/3/4/5),Travel & Transport,-1,-1,Clear
+336277,354,7 5,2012-04-03 20:07:20,Tuesday,4b03242cf964a520f94c22e3,MTA Subway - Broadway (G),Travel & Transport,-1,-1,Clear
+335930,458,7 6,2012-04-03 17:48:45,Tuesday,4a4d10fbf964a52082ad1fe3,MTA Subway - Broadway Junction (A/C/J/L/Z),Travel & Transport,-1,-1,Clear
+335895,120,7 0,2012-04-03 17:34:35,Tuesday,4b2ac07af964a520ecae24e3,MTA Subway - Canal St (6/J/N/Q/R/W/Z),Travel & Transport,-1,-1,Clear
+335756,976,7 1,2012-04-03 16:11:45,Tuesday,4b5ca9dcf964a520f83c29e3,MTA Subway - Central Ave (M),Travel & Transport,-1,-1,Clear
+335899,440,7 2,2012-04-03 17:35:42,Tuesday,4b16f47bf964a5201ac023e3,MTA Subway - Court Sq/23rd St (E/M),Travel & Transport,-1,-1,Clear
+335653,445,7 3,2012-04-03 15:05:22,Tuesday,4e9bb3850cd6de03c41c1963,MTA Subway - Elder Ave (6),Travel & Transport,-1,-1,Clear
+336458,84,7 4,2012-04-03 21:31:13,Tuesday,4d8512acd5fab60c65eaef9b,MTA Subway - F Train,Travel & Transport,-1,-1,Clouds
+336176,354,7 5,2012-04-03 19:30:30,Tuesday,4ad78220f964a520960b21e3,MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),Travel & Transport,-1,-1,Clear
+336233,354,7 6,2012-04-03 19:51:59,Tuesday,4b716ba6f964a520c2452de3,MTA Subway - Hewes St (J/M/Z),Travel & Transport,-1,-1,Clear
+335877,458,7 7,2012-04-03 17:27:43,Tuesday,4b3a1855f964a520026125e3,MTA Subway - Jay St/MetroTech (A/C/F/R),Travel & Transport,-1,-1,Clear
+336408,702,7 7,2012-04-03 21:04:20,Tuesday,4b3a1855f964a520026125e3,MTA Subway - Jay St/MetroTech (A/C/F/R),Travel & Transport,-1,-1,Clouds
+335742,976,0 8,2012-04-03 16:05:56,Tuesday,4d262ad8b7d5236a10401009,MTA Subway - M Train,Travel & Transport,-1,-1,Clear
+336222,354,1 8,2012-04-03 19:50:16,Tuesday,4ab84166f964a520bd7c20e3,MTA Subway - Marcy Ave (J/M/Z),Travel & Transport,-1,-1,Clear
+335889,354,2 8,2012-04-03 17:32:31,Tuesday,4b871e4af964a5209db131e3,MTA Subway - Park Place (2/3),Travel & Transport,-1,-1,Clear
+336247,293,3 8,2012-04-03 19:56:43,Tuesday,4ae8fd76f964a520e1b321e3,MTA Subway - Spring St (C/E),Travel & Transport,-1,-1,Clear
+335903,185,4 8,2012-04-03 17:36:37,Tuesday,4f1a558ae4b0d7904185f778,my bed,Nightlife Spot,3,-1,Clear
+336570,267,5 8,2012-04-03 23:09:25,Tuesday,4ddef33645dd95acd4e4bc81,My Block,Residence,-1,-1,Clouds
+335969,315,6 8,2012-04-03 18:02:13,Tuesday,4bc78d628b7c9c74b7ad36cf,N.L. Clinic Pharmacy,Shop & Service,-1,-1,Clear
+336011,185,7 8,2012-04-03 18:19:38,Tuesday,4ef6571c722e34060e72b97f,nanas :),Food,2,-1,Clear
+336294,768,8 0,2012-04-03 20:13:00,Tuesday,4c49d2a39e3e2d7ff5004d49,Nathan's Famous,Food,1,7.1,Clear
+335617,280,8 1,2012-04-03 14:35:31,Tuesday,4bdb4bf54b1f952169ac670b,Natural Frontier Market,Shop & Service,-1,8.0,Clear
+335627,458,8 2,2012-04-03 14:42:32,Tuesday,4b298573f964a52050a024e3,New York City College of Technology,College & University,-1,-1,Clear
+335920,354,8 3,2012-04-03 17:43:29,Tuesday,4a676321f964a52051c91fe3,New York City Hall,Professional & Other Places,-1,-1,Clear
+336166,943,8 3,2012-04-03 19:27:42,Tuesday,4a676321f964a52051c91fe3,New York City Hall,Professional & Other Places,-1,-1,Clear
+335917,529,8 4,2012-04-03 17:42:39,Tuesday,4b02c41cf964a520c14922e3,New York City Police Department Headquarters,Professional & Other Places,-1,-1,Clear
+336027,443,8 5,2012-04-03 18:28:11,Tuesday,4eff658d0aaffcf6f40c152c,NJT - Bus Stop,Travel & Transport,-1,-1,Clear
+336304,943,8 6,2012-04-03 20:14:46,Tuesday,4ecd8d36b634dd298e4d0fa9,One Mile House,Nightlife Spot,2,8.4,Clear
+336291,768,8 7,2012-04-03 20:11:12,Tuesday,4ca38cf55720b1f71fc632ef,Paramus Park Food Court,Food,-1,6.7,Clear
+336289,768,8 8,2012-04-03 20:10:47,Tuesday,4f038d174901a1400a6d2c8d,Paramus Park Fountain,Outdoors & Recreation,-1,-1,Clear
+335817,768,0 9,2012-04-03 16:56:14,Tuesday,4a991c59f964a520662d20e3,Paramus Park Mall,Shop & Service,-1,7.3,Clear
+335815,768,1 9,2012-04-03 16:55:33,Tuesday,4f49abc9e4b07165fa77eb39,Paramus Park Parking Lot,Professional & Other Places,-1,-1,Clear
+336283,371,2 9,2012-04-03 20:09:24,Tuesday,4c0ab61d340720a1eff28693,Party City,Shop & Service,-1,5.6,Clear
+335760,267,3 9,2012-04-03 16:15:46,Tuesday,4bea48bca9900f47d1641640,Pathmark,Shop & Service,-1,5.4,Clear
+335706,621,4 9,2012-04-03 15:40:48,Tuesday,4c922cde7f3b8cfadacca21e,Pitkin Education Center,College & University,-1,-1,Clear
+335948,458,5 9,2012-04-03 17:55:05,Tuesday,4f69fed7e4b0316cb9aba961,Powell supermarket Aka The Ramp,Shop & Service,-1,-1,Clear
+336531,742,6 9,2012-04-03 22:20:52,Tuesday,4ec34517722e5b8e03d67d9c,RangerMania,Residence,-1,-1,Clouds
+335789,976,7 9,2012-04-03 16:38:46,Tuesday,4e63eda6b3ad629a3a9d1309,Raylz HQ,Residence,-1,-1,Clear
+335780,768,8 9,2012-04-03 16:29:37,Tuesday,4c1c47d601379521e50a47f3,Ridgefield Circle,Travel & Transport,-1,-1,Clear
+335986,359,9 0,2012-04-03 18:08:56,Tuesday,4d8d24f13bfef04dc1477a86,Rite Aid,Shop & Service,-1,6.6,Clear
+335959,315,9 1,2012-04-03 17:57:17,Tuesday,4c6eb179a437224b7c9530b1,Sandy Styles Barbershop,Shop & Service,-1,-1,Clear
+336201,445,9 2,2012-04-03 19:44:42,Tuesday,4eeb4c51775b1d4812e0261c,Shake Shack,Food,2,9.1,Clear
+336438,371,9 3,2012-04-03 21:19:01,Tuesday,4ee039c72c5bb0e03e90c60d,Sitting On My Comfy Couch,Residence,-1,-1,Clouds
+335665,706,9 4,2012-04-03 15:15:04,Tuesday,4bbfcfd3461576b0d4487932,Smoke BBQ Pit,Food,2,7.3,Clear
+336032,371,9 5,2012-04-03 18:29:31,Tuesday,4e275a6d1f6e88a154577bf0,Smoke Corner,Shop & Service,-1,-1,Clear
+335814,702,9 6,2012-04-03 16:55:04,Tuesday,4ea5a1bcf7909c68df719911,St. Francis College Mailroom,College & University,-1,-1,Clear
+335937,621,9 7,2012-04-03 17:52:18,Tuesday,4abe6469f964a5202f8d20e3,Starbucks,Food,1,7.7,Clear
+336083,371,9 8,2012-04-03 18:50:19,Tuesday,4f2f24a2e4b01982f2cbf8b9,Super Comfy Chair,Residence,-1,-1,Clear
+336119,371,9 9,2012-04-03 19:06:58,Tuesday,4a92a28ff964a520451d20e3,Target,Shop & Service,-1,7.7,Clear
+336311,372,0 10,2012-04-03 20:16:09,Tuesday,4a96e0a7f964a520592720e3,Tebaya,Food,2,-1,Clear
+336145,443,1 10,2012-04-03 19:16:47,Tuesday,4f555da0e4b0b1295c78126c,the basement,Nightlife Spot,3,-1,Clear
+336492,185,2 10,2012-04-03 22:00:23,Tuesday,4ea4acaab80355a982afff79,The Bush Hideout,Nightlife Spot,3,-1,Clouds
+336230,185,3 10,2012-04-03 19:51:20,Tuesday,4f22c7bde4b0b2f98daff0dc,The Bush Hot Tub :),Outdoors & Recreation,-1,-1,Clear
+336406,185,4 10,2012-04-03 21:01:25,Tuesday,4d3260b2511760fc57f4e2bd,The Hang Out,Nightlife Spot,-1,-1,Clouds
+335897,84,5 10,2012-04-03 17:35:09,Tuesday,4a859ca3f964a520a5fe1fe3,The Perfect Pint,Nightlife Spot,2,6.7,Clear
+336435,371,6 10,2012-04-03 21:18:21,Tuesday,4e1a3fb62271b0e9720dd7f2,The Porcelli Casa :),Residence,-1,-1,Clouds
+336013,621,7 10,2012-04-03 18:19:59,Tuesday,4eb9f83ccc21a9a7a1b2c579,The Romero Household,Residence,-1,-1,Clear
+336139,689,8 10,2012-04-03 19:15:02,Tuesday,477a3514f964a520214d1fe3,The Smith,Food,3,9.0,Clear
+335827,768,9 10,2012-04-03 16:58:50,Tuesday,4ee7ea4502d5895bd6bccb5f,Thomas Kinkade Signature Gallery,Arts & Entertainment,-1,-1,Clear
+336322,293,10 0,2012-04-03 20:21:12,Tuesday,4d61b919865a224bef72ba85,United Cigars Inc.,Shop & Service,-1,-1,Clouds
+336483,768,10 1,2012-04-03 21:50:33,Tuesday,4cc59facb2beb1f7d1c6234c,Village Pourhouse,Nightlife Spot,2,-1,Clouds
+336064,120,10 2,2012-04-03 18:42:27,Tuesday,4a83505ef964a520bffa1fe3,Vivi Bubble Tea,Food,1,8.2,Clear
+336538,354,10 3,2012-04-03 22:25:31,Tuesday,4b55114af964a52001da27e3,Walgreens,Shop & Service,-1,5.5,Clouds
+335660,706,10 3,2012-04-03 15:12:08,Tuesday,4bb50ba546d4a593de78c4c0,Walgreens,Shop & Service,-1,7.7,Clear
+336206,621,10 4,2012-04-03 19:46:07,Tuesday,4a6f8c85f964a52079d61fe3,Walmart Supercenter,Shop & Service,-1,6.8,Clear
+335664,706,10 5,2012-04-03 15:14:34,Tuesday,4c3a1d102c8020a1f9d58d00,Western Beef,Shop & Service,-1,6.2,Clear
+336204,354,10 6,2012-04-03 19:45:16,Tuesday,49ecd458f964a52099671fe3,Williamsburg Bridge,Outdoors & Recreation,-1,-1,Clear
+336179,529,10 7,2012-04-03 19:32:03,Tuesday,4e0977b87d8b2a0180676fa4,Winterfell Winter is Coming,Residence,-1,-1,Clear
+336559,529,10 7,2012-04-03 22:49:26,Tuesday,4e0977b87d8b2a0180676fa4,Winterfell Winter is Coming,Residence,-1,-1,Clouds
+335901,120,10 8,2012-04-03 17:36:12,Tuesday,3fd66200f964a52037e31ee3,Wo Hop Restaurant,Food,2,8.5,Clear
+336339,440,10 9,2012-04-03 20:32:51,Tuesday,4b14699bf964a520c7a223e3,World Boxing Gym,Outdoors & Recreation,-1,7.6,Clouds
+336568,185,10 10,2012-04-03 23:07:44,Tuesday,4cf526178333224b089d1e8e,YJCC,Arts & Entertainment,-1,-1,Clouds
+335997,354,12 12,2012-04-03 18:14:57,Tuesday,4a663f7cf964a52046c81fe3,Zuccotti Park,Outdoors & Recreation,-1,8.1,Clear
